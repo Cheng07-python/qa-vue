@@ -1,6 +1,6 @@
 # qagt
 
-##环境准备：
+## 环境准备：
 node.js
 vue3
 vue cli
