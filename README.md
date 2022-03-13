@@ -1,5 +1,11 @@
 # qagt
 
+##环境准备：
+node.js
+vue3
+vue cli
+Element Plus
+
 ## Project setup
 ```
 npm install
